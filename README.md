@@ -10,7 +10,9 @@
 
 Final-year **B.Tech Computer Science & Engineering** student and **Full-Stack Developer** with a strong interest in building practical, real-world digital products. I enjoy working across both frontend and backend development, turning ideas and requirements into functional, user-focused applications.
 
-My focus is not only on writing code, but also on understanding how complete products are designed, built, improved, and delivered. I am continuously strengthening my skills in full-stack development, problem solving, backend systems, and modern development tools while working on projects that solve real problems.
+---
+
+## work
 
 Currently working as a **freelancer**, building web applications and digital solutions for real clients. I work across frontend and backend development, turning client requirements into practical, user-focused products while continuously improving my technical, communication, and project management skills.
 
@@ -40,16 +42,6 @@ Currently working as a **freelancer**, building web applications and digital sol
 
 ---
 
-## Currently
-
-- Building full-stack projects
-- Working with freelance clients
-- Improving backend development
-- Practicing DSA and problem solving
-- Exploring scalable web application architecture
-
----
-
 ## GitHub Stats
 
 <p align="left">
@@ -57,8 +49,6 @@ Currently working as a **freelancer**, building web applications and digital sol
 </p>
 
 ---
-
-## Connect
 
 ## Contact
 
