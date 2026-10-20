@@ -30,7 +30,7 @@ Currently working as a **freelancer**, building web applications and digital sol
 
 ## Skills
 
-**Languages**  JavaScript · Python · C++ · C · PHP
+**Languages**  JavaScript · Python · C++ · C · JavaScript · PHP
 
 **Frontend**  React · Next.js · HTML · CSS
 
